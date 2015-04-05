@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/icon_folder.ico</file>
+        <file>img/Finger.png</file>
+        <file>img/folder-apps-icon.png</file>
+        <file>img/Folder.png</file>
+        <file>img/stack.png</file>
+    </qresource>
+</RCC>
