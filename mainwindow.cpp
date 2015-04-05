@@ -9,7 +9,6 @@ MainWindow::MainWindow(QWidget *parent) :
     ui->setupUi(this);
     creerImages();
     creerDossiers();
-    QObject::connect()
 }
 
 MainWindow::~MainWindow()
